@@ -14,6 +14,23 @@ MONGODB_URL = your_mongodb_url
 MONGODB_DATABASE = your_mongo_database_name
 ```
 
+![Frontpage](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Frontpage.png)
+![Login](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Login.png)
+![LoginTeacher](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/LoginTeacher.png)
+![Calendar](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Calendar.png)
+![Announcement](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Announcement.png)
+![Event](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Event.png)
+![EventClass](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/EventClass.png)
+![EventRecipe](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/EventRecipe.png)
+![LecturePost](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/LecturePost.png)
+![TeacherProfile](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/TeacherProfile.png)
+![LoginStudent](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/LoginStudent.png)
+![Recipes](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Recipes.png)
+![Quiz](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Quiz.png)
+![StudentProfile](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/StudentProfile.png)
+![RecipeSearch](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/RecipeSearch.png)
+![RecipeSearch2](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/RecipeSearch2.png)
+
 
 ### Project
 To start the project, you will need to import the .env file in our delivery into the server folder.

@@ -1,3 +1,10 @@
+### PRO202 Agile Project Exam
+**Grade A**
+
+This project, was about creating an app for school teachers, helping them with planning the food science course given to middle school students. it also includes some activies for the students to do like quizzes.
+
+
+### Project
 To start the project, you will need to import the .env file in our delivery into the server folder.
 You will then need an iOS simulator(mac) or an android emulator from android studio(windows). You also need Node installed on your pc.
 

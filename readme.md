@@ -14,22 +14,8 @@ MONGODB_URL = your_mongodb_url
 MONGODB_DATABASE = your_mongo_database_name
 ```
 
-![Frontpage](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Frontpage.png)
-![Login](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Login.png)
-![LoginTeacher](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/LoginTeacher.png)
-![Calendar](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Calendar.png)
-![Announcement](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Announcement.png)
-![Event](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Event.png)
-![EventClass](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/EventClass.png)
-![EventRecipe](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/EventRecipe.png)
-![LecturePost](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/LecturePost.png)
-![TeacherProfile](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/TeacherProfile.png)
-![LoginStudent](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/LoginStudent.png)
-![Recipes](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Recipes.png)
-![Quiz](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/Quiz.png)
-![StudentProfile](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/StudentProfile.png)
-![RecipeSearch](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/RecipeSearch.png)
-![RecipeSearch2](https://github.com/DevBilalAhmed/SmidigProsjektEksamen/img/RecipeSearch2.png)
+**Important**
+**Picture of the application are on the bottom**
 
 
 ### Project
@@ -75,3 +61,22 @@ and a sample student account is:
 >password: password123
 
 for more accounts, see the project result 2.1
+
+### Pictures
+
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/b89dc019-aecc-4b6e-a65d-89b16f67a35f" width="400" height="800" alt="Frontpage">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/77f57e5b-af0c-4543-abc8-d28038e57f0f" width="400" height="800" alt="Login">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/7af8dd68-52e1-4962-bbe0-b87be0ad7689" width="400" height="800" alt="LoginTeacher">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/835ac00b-586f-4159-a081-9b89624d6d32" width="400" height="800" alt="Calendar">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/34b9094b-68f9-490d-aac7-9608268bb2f2" width="400" height="800" alt="Announcement">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/46a172e9-3e10-4394-97a8-c3a8182c8364" width="400" height="800" alt="Event">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/3c5d3f42-ec58-47c7-98c5-d8cfd0872311" width="400" height="800" alt="EventClass">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/5af130a7-3f2b-4765-a638-5f33305cf20d" width="400" height="800" alt="EventRecipe">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/c3cc06f6-29f6-4af6-a189-bfd417b966ff" width="400" height="800" alt="LecturePost">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/6687318f-ef82-4b7a-aadc-81e8648522a8" width="400" height="800" alt="TeacherProfile">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/8644b81d-30d5-4833-a848-cdd8157ce7ef" width="400" height="800" alt="LoginStudent">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/c1daadb5-35f9-4b9d-b1e9-5953ed6ad128" width="400" height="800" alt="Recipes">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/672e1dec-818c-4e7f-bc29-105d3198816b" width="400" height="800" alt="RecipeSearch">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/3fea376e-8383-48f8-8b79-d6caa1d57aa7" width="400" height="800" alt="RecipeSearch2">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/74ab809b-eabf-4141-b38c-491ba5591b14" width="400" height="800" alt="Quiz">
+<img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/fb337a9d-2ab6-48e0-8e46-8f72b5300aee" width="400" height="800" alt="StudentProfile">

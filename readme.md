@@ -1,4 +1,6 @@
-### PRO202 Agile Project Exam
+### <p align=center>PRO202 Agile Project Exam</p>
+<p align=center><img src="https://github.com/DevBilalAhmed/SmidigProsjektEksamen/assets/111248192/b89dc019-aecc-4b6e-a65d-89b16f67a35f" width="400" height="800" alt="Frontpage"></p>
+
 **Grade A**
 
 This project, was about creating an app for school teachers, helping them with planning the food science course given to middle school students. it also includes some activies for the students to do like quizzes.
